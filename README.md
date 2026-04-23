@@ -1,5 +1,11 @@
 # AI Web Interaction Engine
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![AI](https://img.shields.io/badge/AI-Multimodal-green)
+![Vision](https://img.shields.io/badge/Vision-YOLOv8-orange)
+![Speech](https://img.shields.io/badge/Speech-Vosk-yellow)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 A multi-modal automation system that combines computer vision and speech recognition to interact with complex web interfaces where traditional automation falls short.
 
 This project demonstrates how AI can enhance browser automation by enabling systems to interpret visual and audio-based elements dynamically.
